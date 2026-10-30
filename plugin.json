@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "browser-style-prototype",
+  "displayName": "Browser Style Prototype",
+  "version": "1.0.0",
+  "description": "Prototype CSS, DOM, and layout tweaks live in an active browser tab before applying approved changes to your source code.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Preview a cleaner card layout directly in my open browser tab without touching source files yet",
+    "Tweak the spacing and typography on the current page live in the browser so I can compare options",
+    "Apply the approved browser style prototype to the project components and verify the clean render"
+  ],
+  "author": {
+    "name": "zaixiakongyiji",
+    "url": "https://github.com/zaixiakongyiji"
+  },
+  "homepage": "https://github.com/zaixiakongyiji/browser-style-prototype",
+  "repository": "https://github.com/zaixiakongyiji/browser-style-prototype",
+  "license": "MIT",
+  "keywords": [
+    "browser",
+    "css",
+    "dom",
+    "ui",
+    "prototype",
+    "frontend",
+    "layout"
+  ]
+}
